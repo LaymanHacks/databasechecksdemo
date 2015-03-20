@@ -1,0 +1,5 @@
+C:\workspaces\databasechecksdemo\databasechecksdemo\bin\Debug\databasechecksdemo.exe.config
+C:\workspaces\databasechecksdemo\databasechecksdemo\bin\Debug\databasechecksdemo.exe
+C:\workspaces\databasechecksdemo\databasechecksdemo\bin\Debug\databasechecksdemo.pdb
+C:\workspaces\databasechecksdemo\databasechecksdemo\obj\Debug\databasechecksdemo.exe
+C:\workspaces\databasechecksdemo\databasechecksdemo\obj\Debug\databasechecksdemo.pdb
